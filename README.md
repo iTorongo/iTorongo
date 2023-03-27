@@ -2,7 +2,7 @@
 
 #### I'm a Software Enginner currently residing in Norway
 
-- 🏢 Working at [**Monstarlab**](https://monstar-lab.com/global/)
+- 🏢 Working at **Vitae Evidence**
 - 🎓 Doing Masters in Computer Science
 - ⚙️ I use daily `.ts` `.js` `.tsx` `.html` `.css` `.scss`
 - 🧑🏽‍💻 I'm passionate about **Frontend Engineering**
