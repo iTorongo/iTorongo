@@ -6,7 +6,7 @@
 - 🎓 Completed Masters in Computer Science (Cyber Security)
 - ⚙️ I use daily `.ts` `.js` `.tsx` `.html` `.css` `.scss`
 - 🧑🏽‍💻 I'm passionate about **Frontend Engineering**
-- 🤖 Growing interest towards **Machine Learning**
+- 🤖 Growing interest towards **Machine Learning** and **Decentralized Identity**
 - 💬 Reach me [LinkedIn](https://www.linkedin.com/in/arnafaziz/)
 - 📚 Read my blog [Medium](https://medium.com/@arnafaziz)
 - ⚡️ I'm a huge fan of Harry Potter, Game of Thrones & Realmadrid
