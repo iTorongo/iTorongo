@@ -3,7 +3,7 @@
 #### I'm a Software Enginner currently residing in Norway
 
 - 🏢 Working at **Vitae Evidence**
-- 🎓 Doing Masters in Computer Science
+- 🎓 Completed Masters in Computer Science (Cyber Security)
 - ⚙️ I use daily `.ts` `.js` `.tsx` `.html` `.css` `.scss`
 - 🧑🏽‍💻 I'm passionate about **Frontend Engineering**
 - 🤖 Growing interest towards **Machine Learning**
