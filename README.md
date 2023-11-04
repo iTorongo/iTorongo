@@ -4,7 +4,7 @@
 
 - 🏢 Working at **Vitae Evidence**
 - 🎓 Completed Masters in Computer Science (Cyber Security)
-- ⚙️ I use daily `.ts` `.js` `Java`, `.tsx` `.html` `.css` `.scss`
+- ⚙️ I use daily `.ts` `.js` `.java`, `.tsx` `.html` `.css` `.scss`
 - 🧑🏽‍💻 I'm passionate about **Frontend Engineering**
 - 🤖 Growing interest towards **Machine Learning** and **Decentralized Identity**
 - 💬 Reach me [LinkedIn](https://www.linkedin.com/in/arnafaziz/)
