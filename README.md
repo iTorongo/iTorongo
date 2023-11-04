@@ -4,7 +4,7 @@
 
 - 🏢 Working at **Vitae Evidence**
 - 🎓 Completed Masters in Computer Science (Cyber Security)
-- ⚙️ I use daily `.ts` `.js` `.tsx` `.html` `.css` `.scss`
+- ⚙️ I use daily `.ts` `.js` `Java`, `.tsx` `.html` `.css` `.scss`
 - 🧑🏽‍💻 I'm passionate about **Frontend Engineering**
 - 🤖 Growing interest towards **Machine Learning** and **Decentralized Identity**
 - 💬 Reach me [LinkedIn](https://www.linkedin.com/in/arnafaziz/)
@@ -32,6 +32,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" />
   </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" />
   </a>
