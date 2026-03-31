@@ -3,7 +3,6 @@
 #### I'm a Software Enginner currently residing in Norway
 
 - 🏢 Works at **Posten Bring AS**
-- 🎓 Completed Masters in Computer Science (Cyber Security)
 - ⚙️ I use daily `.ts` `.js` `.java`, `.tsx` `.html` `.css` `.scss`
 - 🧑🏽‍💻 I'm passionate about **Frontend Engineering**
 - 🤖 Growing interest towards **Machine Learning** and **Decentralized Identity**
